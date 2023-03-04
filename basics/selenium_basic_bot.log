@@ -1,0 +1,5 @@
+2023-03-04 09:43:33,253::INFO:: Open Chrome successfully
+2023-03-04 09:43:38,203::INFO:: GET URL: https://www.princexml.com/samples/
+2023-03-04 09:43:38,203::INFO:: looking for elements...
+2023-03-04 09:43:38,231::INFO:: Download button identify: Download
+2023-03-04 09:43:38,525::INFO:: Finished
